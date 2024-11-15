@@ -1,4 +1,3 @@
-# deepthink.ai
 install:
 python -m pip install pip==20.2 -i https://pypi.tuna.tsinghua.edu.cn/simple
 > 
